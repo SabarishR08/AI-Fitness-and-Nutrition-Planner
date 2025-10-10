@@ -5,3 +5,5 @@ matplotlib
 plotly 
 python-docx 
 pdfkit 
+python-dotenv
+
